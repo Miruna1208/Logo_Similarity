@@ -1,15 +1,38 @@
 # Logo_Similarity
-Match and group websites by the similarity of their logos. 
+Match and group websites by the similarity of their logos.
 
 ## Description
-This project is designed extract logos from a list of websites and analyze them in order to identify visual similarities between brands.By downloading the logos, converting them to a standardized format, and generating perceptual hashes, it allows for efficient comparison of logo designs, detecting resemblances, and grouping brands with similar visual identities. This tool is especially useful for market research, brand monitoring, or building datasets for machine learning applications involving logo recognition and similarity detection.
+This project is designed to extract logos from a list of websites and analyze them in order to identify visual similarities between brands. By downloading the logos, converting them to a standardized format, and generating perceptual hashes, it allows for efficient comparison of logo designs, detecting resemblances, and grouping brands with similar visual identities. This tool is especially useful for market research, brand monitoring, or building datasets for machine learning applications involving logo recognition and similarity detection.
 
-## Structură proiect
-project_root/
-├─ logos/
-├─ find_logo.py
-├─ main.py 
-├─ logos.snappy.parquet
-├─ good_links.csv 
-├─ bad_links.csv
-└─ README.md
+## find_logo.py – Logo Extraction Module
+The `find_logo.py` module is responsible for locating and retrieving logos from websites. It uses multiple strategies to maximize the chances of finding the correct logo:
+
+- **Favicon and icon links**  
+
+- **Image tags with keywords**  
+
+- **Container and header search**  
+  Looks inside `<header>` or `<nav>` sections and other container elements (`div`, `section`, `a`, `figure`, `span`) for potential logos.
+
+- **SVG handling**  
+  Detects inline SVG logos and converts them to PNG using [cairosvg](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases)..
+
+- **Storage**  
+  Saves logos in the `logos/` 
+
+The module iterates through multiple possible sources and attributes (`src`, `data-src`, `data-lazy`, `srcset`) to ensure the logo is found even if it is loaded dynamically or lazily. It returns the path of the saved PNG logo, or `None` if no logo could be found.
+
+## logo_images.py – Logo Image Processing
+The `logo_images.py` functionality is responsible for downloading, saving, and processing logo images once they are located on a website. Its main responsibilities include:
+
+- **Downloading images**  
+  Fetches images from URLs using HTTP requests.
+
+- **Image Standardization**  
+  Converts images to a consistent format (RGBA) to prevent issues when computing perceptual hashes.
+
+- **Hash Generation**  
+  Uses `imagehash` to compute perceptual hashes (`phash`) for logo comparison.
+
+- **Error Handling**  
+  Safely handles failures in downloading or processing and logs problematic links.

@@ -4,7 +4,7 @@ import pyarrow.parquet as pq
 from PIL import Image
 import imagehash
 
-data = pq.read_table('C:/Users/Miruna/Documents/Logo_similarity/Data_extract/logos.snappy.parquet')
+data = pq.read_table('C:/Users/Miruna/Documents/Logo_similarity/logos.snappy.parquet')
 good_links_file = 'good_links.csv'
 bad_links_file = 'bad_links.csv'
 
