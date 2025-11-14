@@ -1,0 +1,524 @@
+link,Invalid URL 'link': No scheme supplied. Perhaps you meant https://link?
+https://www.toyota-buchreiter-eisenstadt.at,"HTTPSConnectionPool(host='www.toyota-buchreiter-eisenstadt.at', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF6BA510>: Failed to resolve 'www.toyota-buchreiter-eisenstadt.at' ([Errno 11001] getaddrinfo failed)""))"
+https://www.plameco-hannover.de,"HTTPSConnectionPool(host='www.plameco-hannover.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C9BD0>: Failed to resolve 'www.plameco-hannover.de' ([Errno 11001] getaddrinfo failed)""))"
+https://www.cafelasmargaritas.es,503 Server Error: Service Unavailable for url: https://www.cafelasmargaritas.es/
+https://www.oil-testing.de,"HTTPSConnectionPool(host='www.oil-testing.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CA710>: Failed to resolve 'www.oil-testing.de' ([Errno 11001] getaddrinfo failed)""))"
+https://www.wurthsaudi.com,"HTTPSConnectionPool(host='www.wurthsaudi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurthsaudi.com'. (_ssl.c:1077)"")))"
+https://www.xella-colloquium.berlin,"HTTPSConnectionPool(host='hrtcn.net', port=443): Read timed out. (read timeout=15)"
+https://www.avoncameroun.com,"HTTPSConnectionPool(host='www.avoncameroun.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.noiseassessments.org,"HTTPSConnectionPool(host='www.noiseassessments.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CAFD0>: Failed to resolve 'www.noiseassessments.org' ([Errno 11001] getaddrinfo failed)""))"
+https://www.mazdaofamarillo.com,403 Client Error: Forbidden for url: https://www.mazdaofamarillo.com/
+https://www.nestle.com.vn,403 Client Error: Forbidden for url: https://www.nestle.com.vn/
+https://www.mazda-autohaus-henseler-schwedt.de,404 Client Error: Not Found for url: https://www.mazda-autohaus-henseler-schwedt.de/
+https://www.linexofschererville.com,"HTTPSConnectionPool(host='www.linexofschererville.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultmerida.com.mx,403 Client Error: Forbidden for url: https://www.renaultmerida.com.mx/
+https://www.medef-alsace.com,500 Server Error: Internal Server Error for url: https://www.medef-alsace.com/fr/
+https://www.subaru.nc,"HTTPSConnectionPool(host='www.subaru.nc', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.subaru.nc'. (_ssl.c:1077)"")))"
+https://www.intersport-rent.fr,403 Client Error: Forbidden for url: https://www.intersport-rent.fr/
+https://www.nestle.ch,403 Client Error: Forbidden for url: https://www.nestle.ch/
+https://www.culliganwi.com,403 Client Error: Forbidden for url: https://www.culliganwi.com/
+https://www.culliganheartland.com,403 Client Error: Forbidden for url: https://www.culliganheartland.com/
+https://www.culligantotalwater.com,403 Client Error: Forbidden for url: https://www.culligantotalwater.com/
+https://www.mazda-autohaus-fenzl-hauzenberg.de,436 Client Error: status code 436 for url: https://www2.mazda-autohaus-fenzl-hauzenberg.de/
+https://www.daikincareers.com,"HTTPSConnectionPool(host='www.daikincareers.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.daikincareers.com'. (_ssl.c:1077)"")))"
+https://www.scte-prod.herokuapp.com,"HTTPSConnectionPool(host='www.scte-prod.herokuapp.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CB390>: Failed to resolve 'www.scte-prod.herokuapp.com' ([Errno 11001] getaddrinfo failed)""))"
+https://www.saint-gobain.ru,403 Client Error: Forbidden for url: https://www.saint-gobain.ru/
+https://www.renaultsancosme.com.mx,403 Client Error: Forbidden for url: https://www.renaultsancosme.com.mx/
+https://www.mazdalakeland.com,405 Client Error: Not allowed for url: https://www.mazdalakeland.com/
+https://www.renaulttlalnepantla.com.mx,403 Client Error: Forbidden for url: https://www.renaulttlalnepantla.com.mx/
+https://www.araihelmet.com,"HTTPSConnectionPool(host='www.araihelmet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))"
+https://www.nestle.mk,403 Client Error: Forbidden for url: https://www.nestle.mk/
+https://www.aamcofortworth.com,"HTTPSConnectionPool(host='www.aamcofortworth.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.papasaveriospizzeria.com,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.sitechnorthwest.com,"HTTPSConnectionPool(host='www.sitechnorthwest.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C9810>, 'Connection to www.sitechnorthwest.com timed out. (connect timeout=15)'))"
+https://www.cfmotoperu.com,403 Client Error: Forbidden for url: https://www.cfmotoperu.com/
+https://www.kia-plt.ru,"HTTPSConnectionPool(host='www.kia-plt.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-plt.ru'. (_ssl.c:1077)"")))"
+https://www.secureparking.co.id,"HTTPSConnectionPool(host='www.secureparking.co.id', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.secureparking.co.id'. (_ssl.c:1077)"")))"
+https://www.allianz-assistance.ie,403 Client Error: Forbidden for url: https://www.allianz-assistance.ie/
+https://www.decathlon.ch,403 Client Error: Forbidden for url: https://www.decathlon.ch/
+https://www.mazda-ma.com,500 Server Error: Internal Server Error for url: https://www.mazda-ma.com/
+https://www.culliganquadcities.com,403 Client Error: Forbidden for url: https://www.culliganquadcities.com/
+https://www.nikonschool.de,436 Client Error: status code 436 for url: https://www2.nikonschool.de/
+https://www.medef-corse.com,"HTTPSConnectionPool(host='www.medef-corse.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.decathlon.hu,403 Client Error: Forbidden for url: https://www.decathlon.hu/
+https://www.isover.se,403 Client Error: Forbidden for url: https://www.isover.se/
+https://www.mazdaoforange.com,403 Client Error: Forbidden for url: https://www.mazdaoforange.com/
+https://www.kiamarin.com,405 Client Error: Not allowed for url: https://www.kiamarin.com/
+https://www.toyota-annecy.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.repsol.in.ua,"HTTPSConnectionPool(host='www.repsol.in.ua', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.toysrus.com.ph,"HTTPSConnectionPool(host='www.toysrus.com.ph', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toysrus.com.ph'. (_ssl.c:1077)"")))"
+https://www.mazdaofamarillo.com,403 Client Error: Forbidden for url: https://www.mazdaofamarillo.com/
+https://www.renaultcampeche.mx,403 Client Error: Forbidden for url: https://www.renaultcampeche.mx/
+https://www.kiaofdaphne.com,405 Client Error: Not allowed for url: https://www.kiaofdaphne.com/
+https://www.isover.ua,403 Client Error: Forbidden for url: https://www.isover.ua/
+https://www.rockvalleyculligan.com,403 Client Error: Forbidden for url: https://www.rockvalleyculligan.com/
+https://www.toyota-rillieux.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.tupperware.es,"HTTPSConnectionPool(host='www.tupperware.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tupperware.es'. (_ssl.c:1077)"")))"
+https://www.adlatus-nordwestschweiz.ch,"HTTPSConnectionPool(host='www.adlatus-nordwestschweiz.ch', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.adlatus-nordwestschweiz.ch'. (_ssl.c:1077)"")))"
+https://www.subaru-bd.com,"HTTPSConnectionPool(host='www.subaru-bd.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: EE certificate key too weak (_ssl.c:1077)')))"
+https://www.toyotaortakoy.com.tr,"HTTPSConnectionPool(host='www.toyotaortakoy.com.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CA5D0>: Failed to resolve 'www.toyotaortakoy.com.tr' ([Errno 11001] getaddrinfo failed)""))"
+https://www.culligansiouxcity.com,403 Client Error: Forbidden for url: https://www.culligansiouxcity.com/
+https://www.kia-crimea.ru,"HTTPSConnectionPool(host='www.kia-crimea.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-crimea.ru'. (_ssl.c:1077)"")))"
+https://www.acuraofwestchester.com,403 Client Error: Forbidden for url: https://www.acuraofwestchester.com/
+https://www.wurthsaudi.com,"HTTPSConnectionPool(host='www.wurthsaudi.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurthsaudi.com'. (_ssl.c:1077)"")))"
+https://www.pingusenglishbd.com,"HTTPSConnectionPool(host='www.pingusenglishbd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CA490>: Failed to resolve 'www.pingusenglishbd.com' ([Errno 11002] getaddrinfo failed)""))"
+https://www.nestle.bg,403 Client Error: Forbidden for url: https://www.nestle.bg/
+https://www.tgmresearch.vn,"HTTPSConnectionPool(host='www.tgmresearch.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tgmresearch.vn'. (_ssl.c:1077)"")))"
+https://www.linexofwilliston.com,"HTTPSConnectionPool(host='www.linexofwilliston.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.mazdacity.com,405 Client Error: Not allowed for url: https://www.mazdacity.com/
+https://www.kia-kmv.ru,"HTTPSConnectionPool(host='www.kia-kmv.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-kmv.ru'. (_ssl.c:1077)"")))"
+https://www.intersport.si,"HTTPSConnectionPool(host='www.intersport.si', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CA210>, 'Connection to www.intersport.si timed out. (connect timeout=15)'))"
+https://www.trijit.uk,526 Server Error: <none> for url: https://www.trijit.uk/
+https://www.tevamexico.com.mx,403 Client Error: Forbidden for url: https://www.tevamexico.com.mx/
+https://www.budget-egypt.com,"HTTPSConnectionPool(host='www.budget-egypt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.budget-egypt.com'. (_ssl.c:1077)"")))"
+https://www.toshiba-water.com,"HTTPSConnectionPool(host='www.toshiba-water.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.suttontools.co.nz,"HTTPSConnectionPool(host='www.suttontools.co.nz', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C87D0>, 'Connection to www.suttontools.co.nz timed out. (connect timeout=15)'))"
+https://www.rotary-club-paris-se.org,"HTTPSConnectionPool(host='www.rotary-club-paris-se.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))"
+https://www.mazdaofspartanburg.com,405 Client Error: Not allowed for url: https://www.mazdaofspartanburg.com/
+https://www.mazdafwb.com,403 Client Error: Forbidden for url: https://www.mazdafwb.com/
+https://www.reedglobal.bg,"HTTPSConnectionPool(host='www.reedglobal.bg', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C9A90>: Failed to resolve 'www.reedglobal.bg' ([Errno 11001] getaddrinfo failed)""))"
+https://www.axa-assistance.ma,"HTTPSConnectionPool(host='www.axa-assistance.ma', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C8910>, 'Connection to www.axa-assistance.ma timed out. (connect timeout=15)'))"
+https://www.decathlon.com.tr,403 Client Error: Forbidden for url: https://www.decathlon.com.tr/
+https://www.kia-chita.ru,"HTTPSConnectionPool(host='www.kia-chita.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-chita.ru'. (_ssl.c:1077)"")))"
+https://www.medef-ain.fr,"HTTPSConnectionPool(host='www.medef-ain.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.medef-somme.fr,"HTTPSConnectionPool(host='www.medef-somme.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.pingusenglish.com.cy,"HTTPSConnectionPool(host='www.pingusenglish.com.cy', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CAFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+https://www.saint-gobain-solutions.nl,403 Client Error: Forbidden for url: https://www.saint-gobain-solutions.nl/
+https://www.mtn.com.gh,"HTTPSConnectionPool(host='www.mtn.com.gh', port=443): Read timed out. (read timeout=15)"
+https://www.decathlon.hu,403 Client Error: Forbidden for url: https://www.decathlon.hu/
+https://www.mazdaofpottstown.com,405 Client Error: Not allowed for url: https://www.mazdaofpottstown.com/
+https://www.isover.com.br,403 Client Error: Forbidden for url: https://www.isover.com.br/
+https://www.allianz.com.ar,403 Client Error: Forbidden for url: https://www.allianz.com.ar/
+https://www.kiaofabilene.com,403 Client Error: Forbidden for url: https://www.kiaofabilene.com/
+https://www.nestle.com.tw,403 Client Error: Forbidden for url: https://www.nestle.com.tw/
+https://www.nestle.pl,403 Client Error: Forbidden for url: https://www.nestle.pl/
+https://www.renaultchiapas.com.mx,403 Client Error: Forbidden for url: https://www.renaultchiapas.com.mx/
+https://www.mcvitiesindia.com,"HTTPSConnectionPool(host='www.mcvitiesindia.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001F0FF7CA0D0>, 'Connection to www.mcvitiesindia.com timed out. (connect timeout=15)'))"
+https://www.kiaofduluth.com,403 Client Error: Forbidden for url: https://www.kiaofduluth.com/
+https://www.kia-asc.ru,"HTTPSConnectionPool(host='www.kia-asc.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-asc.ru'. (_ssl.c:1077)"")))"
+https://www.culligandelavan.com,403 Client Error: Forbidden for url: https://www.culligandelavan.com/
+https://www.decathlon.ro,403 Client Error: Forbidden for url: https://www.decathlon.ro/
+https://www.decathlon.pl,403 Client Error: Forbidden for url: https://www.decathlon.pl/
+https://www.kilewswest.com,"HTTPSConnectionPool(host='www.kilewswest.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001F0FF7C9950>: Failed to resolve 'www.kilewswest.com' ([Errno 11001] getaddrinfo failed)""))"
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.lvs-oxford.org.uk,403 Client Error: Forbidden for url: https://www.lvs-oxford.org.uk/
+https://www.wurth.hu,"HTTPSConnectionPool(host='www.wurth.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurth.hu'. (_ssl.c:1077)"")))"
+https://www.hertz.com.ge,"HTTPSConnectionPool(host='www.hertz.com.ge', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hertz.com.ge'. (_ssl.c:1077)"")))"
+https://www.mazda112.com,405 Client Error: Not allowed for url: https://www.mazda112.com/
+https://www.nestle.at,403 Client Error: Forbidden for url: https://www.nestle.at/
+https://www.pepsico.sa,403 Client Error: Forbidden for url: https://www.middleeast.pepsico.com
+https://www.pepsico.com.tr,403 Client Error: Forbidden for url: https://www.pepsico.com.tr/
+https://www.mtn.co.rw,"HTTPSConnectionPool(host='www.mtn.co.rw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.mazdaofescondido.com,403 Client Error: Forbidden for url: https://www.mazdaofescondido.com/
+https://www.culliganmichigan.com,403 Client Error: Forbidden for url: https://www.culliganmichigan.com/
+https://www.renaultcancun.com.mx,403 Client Error: Forbidden for url: https://www.renaultcancun.com.mx/
+https://www.nestle.ro,403 Client Error: Forbidden for url: https://www.nestle.ro/
+https://www.renaultinterlomas.com,403 Client Error: Forbidden for url: https://www.renaultinterlomas.com/
+https://www.pingusenglish.ps,"HTTPSConnectionPool(host='www.pingusenglish.ps', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.mazdaofwestridge.com,403 Client Error: Forbidden for url: https://www.mazdaofwestridge.com/
+https://www.culliganchampaign.com,403 Client Error: Forbidden for url: https://www.culliganchampaign.com/
+https://www.renaultcoatzacoalcos.com.mx,403 Client Error: Forbidden for url: https://www.renaultcoatzacoalcos.com.mx/
+https://www.sixty8.ro,"HTTPSConnectionPool(host='www.sixty8.ro', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.mazda.com.sg,403 Client Error: Forbidden for url: https://www.mazda.com.sg/
+https://www.mazdaofnorthmiami.com,403 Client Error: Forbidden for url: https://www.mazdaofnorthmiami.com/
+https://www.truckcityford.com,405 Client Error: Not allowed for url: https://www.truckcityford.com/
+https://www.tapflo.co.za,"HTTPSConnectionPool(host='tapflo.com', port=443): Max retries exceeded with url: /za/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.bakertilly.com.cy,"HTTPSConnectionPool(host='bakertillysee.com%5c', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A0D0>: Failed to resolve 'bakertillysee.com%5c' ([Errno 11001] getaddrinfo failed)""))"
+https://www.avis.com.do,"HTTPSConnectionPool(host='www.avis.com.do', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.avis.com.do'. (_ssl.c:1077)"")))"
+https://www.toyota-saint-victoret.com,"HTTPSConnectionPool(host='www.toyota-saint-victoret.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyota-saint-victoret.com'. (_ssl.c:1077)"")))"
+https://www.mazdaofchicagoland.com,403 Client Error: Forbidden for url: https://www.mazdaofchicagoland.com/
+https://www.mazda-warszawa-auto2000.pl,530 Server Error: <none> for url: https://www.mazda-warszawa-auto2000.pl/
+https://www.wurth-int.com,500 Server Error: Internal Server Error for url: http://wurth-int.com/sk
+https://www.allianz-handwerker.de,403 Client Error: Forbidden for url: https://www.allianz-handwerker.de/
+https://www.ymcachicago.org,403 Client Error: Forbidden for url: https://www.ymcachicago.org/
+https://www.mazdaofpoughkeepsie.com,"HTTPSConnectionPool(host='www.mazdaofpoughkeepsie.com', port=443): Read timed out. (read timeout=15)"
+https://www.nestle.se,403 Client Error: Forbidden for url: https://www.nestle.se/
+https://www.cfmotoqueretaro.com,"HTTPSConnectionPool(host='www.rinconlatinorestaurante.com', port=443): Max retries exceeded with url: /menu/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultamericas.com.mx,403 Client Error: Forbidden for url: https://www.renaultamericas.com.mx/
+https://www.kiaofpa.com,403 Client Error: Forbidden for url: https://www.kiaofpa.com/
+https://www.mazdaofwestridge.com,403 Client Error: Forbidden for url: https://www.mazdaofwestridge.com/
+https://www.culliganregina.com,403 Client Error: Forbidden for url: https://www.culliganregina.com/
+https://www.printsasia.com,404 Client Error: Not Found for url: https://www.printsasia.com/
+https://www.linexofchickasha.com,"HTTPSConnectionPool(host='www.linexofchickasha.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.nestle-mena.com,403 Client Error: Forbidden for url: https://www.nestle-mena.com/
+https://www.thebodyshop.com.tr,503 Server Error: Service Unavailable for url: https://www.thebodyshop.com.tr/
+https://www.culliganmidmichigan.com,403 Client Error: Forbidden for url: https://www.culliganmidmichigan.com/
+https://www.wurth.hu,"HTTPSConnectionPool(host='www.wurth.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurth.hu'. (_ssl.c:1077)"")))"
+https://www.isover.it,403 Client Error: Forbidden for url: https://www.isover.it/
+https://www.hertz.com.ge,"HTTPSConnectionPool(host='www.hertz.com.ge', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hertz.com.ge'. (_ssl.c:1077)"")))"
+https://www.hondaheritagecenter.com,403 Client Error: Forbidden for url: https://www.honda.com/heritage-center
+https://www.mazdacorpuschristi.com,403 Client Error: Forbidden for url: https://www.mazdacorpuschristi.com/
+https://www.mazdaoforlandpark.com,403 Client Error: Forbidden for url: https://www.mazdaoforlandpark.com/
+https://www.renaultpuertovallarta.com.mx,403 Client Error: Forbidden for url: https://www.renaultpuertovallarta.com.mx/
+https://www.nestle-caribbean.com,403 Client Error: Forbidden for url: https://www.nestle-caribbean.com/
+https://www.nestle.si,403 Client Error: Forbidden for url: https://www.nestle.si/
+https://www.culliganlacrosse.com,403 Client Error: Forbidden for url: https://www.culliganlacrosse.com/
+https://www.cdlvideira.com.br,403 Client Error: Forbidden for url: https://www.cdlvideira.com.br/
+https://www.kiaofverobeach.com,405 Client Error: Not allowed for url: https://www.kiaofverobeach.com/
+https://www.carlsjr.co.nz,403 Client Error: Forbidden for url: https://www.carlsjr.co.nz/
+https://www.mazda.com.sg,403 Client Error: Forbidden for url: https://www.mazda.com.sg/
+https://www.renaultcoatzacoalcos.com.mx,403 Client Error: Forbidden for url: https://www.renaultcoatzacoalcos.com.mx/
+https://www.howdengroupholdings.com,403 Client Error: Forbidden for url: https://www.howdengroupholdings.com/
+https://www.renaultcancun.com.mx,403 Client Error: Forbidden for url: https://www.renaultcancun.com.mx/
+https://www.culliganmarlette.com,403 Client Error: Forbidden for url: https://www.culliganmarlette.com/
+https://www.foxinaboxlondon.uk,404 Client Error: Not Found for url: https://foxinaboxgames.com/london/
+https://www.kiavacaville.com,405 Client Error: Not allowed for url: https://www.kiavacaville.com/
+https://www.captrain.pl,"HTTPSConnectionPool(host='www.captrain.pl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA678291D0>, 'Connection to www.captrain.pl timed out. (connect timeout=15)'))"
+https://www.nestle.com.ve,403 Client Error: Forbidden for url: https://www.nestle.com.ve/
+https://www.kiajc.com,403 Client Error: Forbidden for url: https://www.kiajc.com/
+https://www.kiaofstcatharines.com,403 Client Error: Forbidden for url: https://www.kiaofstcatharines.com/
+https://www.toyotasud.ro,"HTTPSConnectionPool(host='www.toyotasud.ro', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1077)')))"
+https://www.culliganwaterbillings.com,403 Client Error: Forbidden for url: https://www.culliganwaterbillings.com/
+https://www.allianz.ua,403 Client Error: Forbidden for url: https://www.allianz.ua/
+https://www.lidl-voyages.fr,"HTTPSConnectionPool(host='www.lidl-voyages.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lidl-voyages.fr'. (_ssl.c:1077)"")))"
+https://www.nelsonlabsbozeman.com,"HTTPSConnectionPool(host='www.nelsonlabsbozeman.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1077)')))"
+https://www.savethechildren.nl,403 Client Error: Forbidden for url: https://www.savethechildren.nl/
+https://www.sanlorenzo.com.pe,"HTTPSConnectionPool(host='www.sanlorenzo.com.pe', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67829090>, 'Connection to www.sanlorenzo.com.pe timed out. (connect timeout=15)'))"
+https://www.kiamotors.com.kh,"HTTPSConnectionPool(host='www.kiamotors.com.kh', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782B110>: Failed to resolve 'www.kiamotors.com.kh' ([Errno 11002] getaddrinfo failed)""))"
+https://www.culliganbrighton.com,403 Client Error: Forbidden for url: https://www.culliganbrighton.com/
+https://www.mazdacorpuschristi.com,403 Client Error: Forbidden for url: https://www.mazdacorpuschristi.com/
+https://www.toyota-marseille.com,"HTTPSConnectionPool(host='www.toyota-marseille.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyota-marseille.com'. (_ssl.c:1077)"")))"
+https://www.isuzu.com,"HTTPSConnectionPool(host='www.isuzu.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.decathlon.cz,403 Client Error: Forbidden for url: https://www.decathlon.cz/
+https://www.culliganricelake.com,403 Client Error: Forbidden for url: https://www.culliganricelake.com/
+https://www.mazdaofportcharlotte.com,403 Client Error: Forbidden for url: https://www.mazdaofportcharlotte.com/
+https://www.mazdaofcolumbia.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.culliganmarion.com,403 Client Error: Forbidden for url: https://www.culliganmarion.com/
+https://www.kiaofoldsaybrook.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.acetoolonline.com,"HTTPSConnectionPool(host='www.acetoolonline.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.duracell.in,"HTTPSConnectionPool(host='www.duracell.in', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.culligancountry.com,403 Client Error: Forbidden for url: https://www.culligancountry.com/
+https://www.nestle.no,403 Client Error: Forbidden for url: https://www.nestle.no/
+https://www.263.net.cn,"HTTPSConnectionPool(host='www.263.net.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.263.net.cn'. (_ssl.c:1077)"")))"
+https://www.budget.rs,"HTTPSConnectionPool(host='www.budget.rs', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.allianzportugal.pt,"HTTPSConnectionPool(host='www.allianzportugal.pt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.mazdaofsouthcharlotte.com,405 Client Error: Not allowed for url: https://www.mazdaofsouthcharlotte.com/
+https://www.rotaryclubmedellin.org,406 Client Error: Not Acceptable for url: https://www.rotaryclubmedellin.org/
+https://www.mazdaofnorthmiami.com,403 Client Error: Forbidden for url: https://www.mazdaofnorthmiami.com/
+https://www.toyotasouthern.com,"HTTPSConnectionPool(host='www.toyotasouthern.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyotasouthern.com'. (_ssl.c:1077)"")))"
+https://www.orange.cd,"HTTPSConnectionPool(host='www.orange.cd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828910>: Failed to resolve 'www.orange.cd' ([Errno 11002] getaddrinfo failed)""))"
+https://www.duracell.com.tr,"HTTPSConnectionPool(host='www.duracell.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.culliganporthuron.com,403 Client Error: Forbidden for url: https://www.culliganporthuron.com/
+https://www.saint-gobain.com.co,403 Client Error: Forbidden for url: https://www.saint-gobain.com.co/
+https://www.affresco-decor.com,"HTTPSConnectionPool(host='www.affresco-decor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.affresco-decor.com'. (_ssl.c:1077)"")))"
+https://www.carlsjr-russia.ru,"HTTPSConnectionPool(host='www.carlsjr-russia.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67828690>, 'Connection to www.carlsjr-russia.ru timed out. (connect timeout=15)'))"
+https://www.starkey.co.uk,"HTTPSConnectionPool(host='www.starkey.co.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.gulf.no,"HTTPSConnectionPool(host='www.gulf.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.gulf.no'. (_ssl.c:1077)"")))"
+https://www.subway.com.tw,"HTTPSConnectionPool(host='www.subway.com.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.subway.com.tw'. (_ssl.c:1077)"")))"
+https://www.oaklandwoodfloors.net,"HTTPSConnectionPool(host='www.oaklandwoodfloors.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.cdlcampina.org.br,525 Server Error: <none> for url: https://www.cdlcampina.org.br/
+https://www.kiaofwestchester.com,405 Client Error: Not allowed for url: https://www.kiaofwestchester.com/
+https://www.medef-vendee.fr,"HTTPSConnectionPool(host='www.medef-vendee.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.culligantucson.com,403 Client Error: Forbidden for url: https://www.culligantucson.com/
+https://www.mcdonalds.com.jo,"HTTPSConnectionPool(host='www.mcdonalds.com.jo', port=443): Read timed out. (read timeout=15)"
+https://www.paybase.netlify.app,"HTTPSConnectionPool(host='www.paybase.netlify.app', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.paybase.netlify.app'. (_ssl.c:1077)"")))"
+https://www.culligangeneva.com,403 Client Error: Forbidden for url: https://www.culligangeneva.com/
+https://www.altenromania.ro,"HTTPSConnectionPool(host='www.altenromania.ro', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828910>: Failed to resolve 'www.altenromania.ro' ([Errno 11001] getaddrinfo failed)""))"
+https://www.nestle.hr,403 Client Error: Forbidden for url: https://www.nestle.hr/
+https://www.mercyships.org.au,403 Client Error: Forbidden for url: https://www.mercyships.org.au/
+https://www.culliganillinoisvalley.com,403 Client Error: Forbidden for url: https://www.culliganillinoisvalley.com/
+https://www.savethechildren.nl,403 Client Error: Forbidden for url: https://www.savethechildren.nl/
+https://www.culliganalbionhillsdale.com,403 Client Error: Forbidden for url: https://www.culliganalbionhillsdale.com/
+https://www.adra.org.pt,"HTTPSConnectionPool(host='www.adra.org.pt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.adra.org.pt'. (_ssl.c:1077)"")))"
+https://www.toyota-corbeil.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.saint-gobain.ar,403 Client Error: Forbidden for url: https://www.saint-gobain.ar/
+https://www.daikin-korea.co.kr,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.allianz.ie,403 Client Error: Forbidden for url: https://www.allianz.ie/
+https://www.isover.de,403 Client Error: Forbidden for url: https://www.isover.de/
+https://www.toyota-montluel.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.dci.co.th,"HTTPSConnectionPool(host='www.dci.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782AFD0>, 'Connection to www.dci.co.th timed out. (connect timeout=15)'))"
+https://www.fmc-symposium.cz,"HTTPSConnectionPool(host='www.fmc-symposium.cz', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AA6782AD50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+https://www.nissanofgardencity.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.mazda.com.kh,"HTTPSConnectionPool(host='www.mazda.com.kh', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829950>: Failed to resolve 'www.mazda.com.kh' ([Errno 11002] getaddrinfo failed)""))"
+https://www.toyota-chartres.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.tescomobile.sk,"HTTPSConnectionPool(host='www.tescomobile.sk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.nestle.fi,403 Client Error: Forbidden for url: https://www.nestle.fi/
+https://www.thebodyshop.com.br,"HTTPSConnectionPool(host='www.thebodyshop.com.br', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829D10>: Failed to resolve 'www.thebodyshop.com.br' ([Errno 11001] getaddrinfo failed)""))"
+https://www.hyundai.sn,"HTTPSConnectionPool(host='www.hyundai.sn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hyundai.sn'. (_ssl.c:1077)"")))"
+https://www.renaultmonterrey.com,403 Client Error: Forbidden for url: https://www.renaultmonterrey.com/
+https://www.culliganofidaho.com,403 Client Error: Forbidden for url: https://www.culliganofidaho.com/
+https://www.nestle.do,403 Client Error: Forbidden for url: https://www.nestle.do/
+https://www.culliganfresnolindsay.com,403 Client Error: Forbidden for url: https://www.culliganfresnolindsay.com/
+https://www.renaultecatepec.com.mx,403 Client Error: Forbidden for url: https://www.renaultazcapotzalco.com.mx
+https://www.mazda.com.sg,403 Client Error: Forbidden for url: https://www.mazda.com.sg/
+https://www.isover.it,403 Client Error: Forbidden for url: https://www.isover.it/
+https://www.culligantotalwateriowa.com,403 Client Error: Forbidden for url: https://www.culligantotalwateriowa.com/
+https://www.culliganwaterwyoming.com,403 Client Error: Forbidden for url: https://www.culliganwaterwyoming.com/
+https://www.renaultpachuca.com.mx,403 Client Error: Forbidden for url: https://www.renaultazcapotzalco.com.mx
+https://www.renaultbank.es,"HTTPSConnectionPool(host='www.renaultbank.es', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828B90>: Failed to resolve 'www.renaultbank.es' ([Errno 11001] getaddrinfo failed)""))"
+https://www.culliganillinois.com,403 Client Error: Forbidden for url: https://www.culliganillinois.com/
+https://www.weidner.ca,403 Client Error: Forbidden for url: https://www.weidner.ca/
+https://www.aiesec.org.es,406 Client Error: Not Acceptable for url: https://www.aiesec.org.es/
+https://www.nestle.ir,403 Client Error: Forbidden for url: https://www.nestle.ir/
+https://www.culligankennewick.com,403 Client Error: Forbidden for url: https://www.culligankennewick.com/
+https://www.linexofstlouismo.com,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.culliganmoseslake.com,403 Client Error: Forbidden for url: https://www.culliganmoseslake.com/
+https://www.renaultamericas.com.mx,403 Client Error: Forbidden for url: https://www.renaultamericas.com.mx/
+https://www.mazdaofconshohocken.com,405 Client Error: Not allowed for url: https://www.mazdaofconshohocken.com/
+https://www.desjoyaux.com.cn,"HTTPSConnectionPool(host='www.desjoyaux.com.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.desjoyaux.com.cn'. (_ssl.c:1077)"")))"
+https://www.culliganofpeoria.com,403 Client Error: Forbidden for url: https://www.culliganofpeoria.com/
+https://www.extremeadventureraces.com,"HTTPSConnectionPool(host='www.runningadventureoutdoor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.toyotabeerens.be,"HTTPSConnectionPool(host='www.toyotabeerens.be', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A5D0>: Failed to resolve 'www.toyotabeerens.be' ([Errno 11001] getaddrinfo failed)""))"
+https://www.mazda-warszawa-auto2000.pl,530 Server Error: <none> for url: https://www.mazda-warszawa-auto2000.pl/
+https://www.norauto.com,403 Client Error: Forbidden for url: https://www.norauto.com/
+https://www.subaru.mt,"HTTPSConnectionPool(host='www.subaru.mt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.subaru.mt'. (_ssl.c:1077)"")))"
+https://www.isover.lv,403 Client Error: Forbidden for url: https://www.isover.lv/
+https://www.pepsico.com.pk,403 Client Error: Forbidden for url: https://www.pepsico.com.pk/
+https://www.kia-guadeloupe.com,"HTTPSConnectionPool(host='www.kia-guadeloupe.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-guadeloupe.com'. (_ssl.c:1077)"")))"
+https://www.culligantotalwaterbaraboo.com,403 Client Error: Forbidden for url: https://www.culligantotalwaterbaraboo.com/
+https://www.culligangrandisland.com,403 Client Error: Forbidden for url: https://www.culligangrandisland.com/
+https://www.renault-chihuahua.com,403 Client Error: Forbidden for url: https://www.renault-chihuahua.com/
+https://www.duracell.es,"HTTPSConnectionPool(host='www.duracell.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.acuraofwappingersfalls.com,403 Client Error: Forbidden for url: https://www.acuraofwappingersfalls.com/
+https://www.pingusenglish.ps,"HTTPSConnectionPool(host='www.pingusenglish.ps', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.isover.com.ar,403 Client Error: Forbidden for url: https://www.isover.com.ar/
+https://www.atalian.sg,410 Client Error: Gone for url: https://www.atalian.sg/
+https://www.path-solutions.com,"HTTPSConnectionPool(host='www.path-solutions.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67828E10>, 'Connection to www.path-solutions.com timed out. (connect timeout=15)'))"
+https://www.wwf.org.nz,403 Client Error: Forbidden for url: https://www.wwf.org.nz/
+https://www.nestle.co.nz,403 Client Error: Forbidden for url: https://www.nestle.co.nz/
+https://www.tupperware.com.vn,"HTTPSConnectionPool(host='www.tupperware.com.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tupperware.com.vn'. (_ssl.c:1077)"")))"
+https://www.digilite.com.au,403 Client Error: Forbidden for url: https://digilite.ca/
+https://www.mazdaofalexandria.com,405 Client Error: Not allowed for url: https://www.mazdaofalexandria.com/
+https://www.linexofjoliet.com,"HTTPSConnectionPool(host='www.linexofjoliet.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.soventix.cl,"HTTPSConnectionPool(host='www.soventix.cl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A990>: Failed to resolve 'www.soventix.cl' ([Errno 11001] getaddrinfo failed)""))"
+https://www.mazdaofalexandria.com,405 Client Error: Not allowed for url: https://www.mazdaofalexandria.com/
+https://www.aamcokellertx.com,"HTTPSConnectionPool(host='www.aamcokellertx.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.renaultbank.es,"HTTPSConnectionPool(host='www.renaultbank.es', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828A50>: Failed to resolve 'www.renaultbank.es' ([Errno 11001] getaddrinfo failed)""))"
+https://www.renaultpatriotismo.com.mx,403 Client Error: Forbidden for url: https://www.renaultpatriotismo.com.mx/
+https://www.mazdaofpoughkeepsie.com,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.starkey.co.kr,"HTTPSConnectionPool(host='www.starkey.co.kr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.culliganofmerrillville.com,403 Client Error: Forbidden for url: https://www.culliganofmerrillville.com/
+https://www.wwf.org.nz,403 Client Error: Forbidden for url: https://www.wwf.org.nz/
+https://www.aamcogreensburgpa.com,"HTTPSConnectionPool(host='www.aamcogreensburgpa.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67829950>, 'Connection to www.aamcogreensburgpa.com timed out. (connect timeout=15)'))"
+https://www.lghealthjobs.org,403 Client Error: Forbidden for url: https://www.lghealthjobs.org/
+https://www.renaulttepic.mx,403 Client Error: Forbidden for url: https://www.renaulttepic.mx/
+https://www.duracell.pl,"HTTPSConnectionPool(host='www.duracell.pl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.allianz-reiseschutz.de,403 Client Error: Forbidden for url: https://www.allianz-reiseschutz.de/
+https://www.rinnai.com.tw,"HTTPSConnectionPool(host='www.rinnai.com.tw', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1077)')))"
+https://www.culliganindiana.com,403 Client Error: Forbidden for url: https://www.culliganindiana.com/
+https://www.linexranchocordova.com,403 Client Error: Forbidden for url: https://www.linexranchocordova.com/
+https://www.isover.fi,403 Client Error: Forbidden for url: https://www.isover.fi/
+https://www.mazdaofnewrochelle.com,403 Client Error: Forbidden for url: https://www.mazdaofnewrochelle.com/
+https://www.allianzlifebali.com,"HTTPSConnectionPool(host='www.allianzlifebali.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA678291D0>: Failed to resolve 'www.allianzlifebali.com' ([Errno 11001] getaddrinfo failed)""))"
+https://www.kia-etehad-halstenbek.de,"HTTPSConnectionPool(host='www.kia-etehad-halstenbek.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782B750>, 'Connection to www.kia-etehad-halstenbek.de timed out. (connect timeout=15)'))"
+https://www.cleansui-usa.com,404 Client Error: Not Found for url: https://cleansui-usa.com/
+https://www.securitas24.de,"HTTPSConnectionPool(host='www.securitas24.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1077)')))"
+https://www.chicco.com.tr,"HTTPSConnectionPool(host='www.chicco.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1077)')))"
+https://www.allianz.sg,403 Client Error: Forbidden for url: https://www.allianz.sg/
+https://www.renaultpachuca.com.mx,403 Client Error: Forbidden for url: https://www.renaultazcapotzalco.com.mx
+https://www.pepsico.com.co,403 Client Error: Forbidden for url: https://www.pepsico.com.co/
+https://www.pepsico.fr,403 Client Error: Forbidden for url: https://www.pepsico.fr/
+https://www.nepaltrust.gov.np,"HTTPSConnectionPool(host='www.nepaltrust.gov.np', port=443): Read timed out. (read timeout=15)"
+https://www.acuraofpeabody.com,405 Client Error: Not allowed for url: https://www.acuraofpeabody.com/
+https://www.starkey.com.br,"HTTPSConnectionPool(host='www.starkey.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.nestle.ba,403 Client Error: Forbidden for url: https://www.nestle.ba/
+https://www.ealang.com.cn,"HTTPSConnectionPool(host='www.ealang.com.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ealang.com.cn'. (_ssl.c:1077)"")))"
+https://www.mazdaoforlandpark.com,403 Client Error: Forbidden for url: https://www.mazdaoforlandpark.com/
+https://www.aamcoarlington-pantego.com,"HTTPSConnectionPool(host='www.aamcoarlington-pantego.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.mazdaofwooster.com,405 Client Error: Not allowed for url: https://www.mazdaofwooster.com/
+https://www.culliganchicago.com,403 Client Error: Forbidden for url: https://www.culliganchicago.com/
+https://www.rotary-club-strasbourg.org,"HTTPSConnectionPool(host='www.rotary-club-strasbourg.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829E50>: Failed to resolve 'www.rotary-club-strasbourg.org' ([Errno 11001] getaddrinfo failed)""))"
+https://www.coffeesmith.com.sg,"HTTPSConnectionPool(host='www.coffeesmith.com.sg', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828A50>: Failed to resolve 'www.coffeesmith.com.sg' ([Errno 11002] getaddrinfo failed)""))"
+https://www.mazdanorkar.com,"HTTPSConnectionPool(host='www.mazdanorkar.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.acuraofgainesville.com,"HTTPSConnectionPool(host='www.acuraofgainesville.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.cfmotoindia.com,"HTTPSConnectionPool(host='www.cfmotoindia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.allianzportugal.pt,"HTTPSConnectionPool(host='www.allianzportugal.pt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.countryroadsford.net,405 Client Error: Not allowed for url: https://www.countryroadsford.net/
+https://www.nestle.com.sg,403 Client Error: Forbidden for url: https://www.nestle.com.sg/
+https://www.dicetek.us,"HTTPSConnectionPool(host='www.dicetek.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.platingsystems.info,500 Server Error: Internal Server Error for url: https://www.platingsystems.info/
+https://www.hyundaiofchatham.ca,403 Client Error: Forbidden for url: https://www.hyundaiofchatham.ca/
+https://www.carlsjr-russia.ru,"HTTPSConnectionPool(host='www.carlsjr-russia.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782A0D0>, 'Connection to www.carlsjr-russia.ru timed out. (connect timeout=15)'))"
+https://www.hannainst.hr,403 Client Error: Forbidden for url: https://www.hannainst.hr/
+https://www.tapflo.nl,"HTTPSConnectionPool(host='tapflo.com', port=443): Max retries exceeded with url: /nl/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.deswam.in,520 Server Error: <none> for url: https://www.deswam.in/
+https://www.renaulttepic.mx,403 Client Error: Forbidden for url: https://www.renaulttepic.mx/
+https://www.toyota-paris5.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.toysrus.com.sa,403 Client Error: Forbidden for url: https://toysrus.com.sa:443/
+https://www.plameco-huizen.nl,"HTTPSConnectionPool(host='www.plameco-huizen.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.plameco-huizen.nl'. (_ssl.c:1077)"")))"
+https://www.daikin-korea.co.kr,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.wurth-int.com,500 Server Error: Internal Server Error for url: http://wurth-int.com/sk
+https://www.subarutijuana.mx,"HTTPSConnectionPool(host='www.subarutijuana.mx', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.mazdaofbedford.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.culliganflint.com,403 Client Error: Forbidden for url: https://www.culliganflint.com/
+https://www.habitatbroward.org,503 Server Error: Service Unavailable for url: https://www.habitatbroward.org/
+https://www.aon.lt,"HTTPSConnectionPool(host='www.aon.lt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.kiaofmurfreesboro.com,405 Client Error: Not allowed for url: https://www.kiaofmurfreesboro.com/
+https://www.renaultpatriotismo.com.mx,403 Client Error: Forbidden for url: https://www.renaultpatriotismo.com.mx/
+https://www.myplumberca.com,"HTTPSConnectionPool(host='www.myplumberca.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829BD0>: Failed to resolve 'www.myplumberca.com' ([Errno 11001] getaddrinfo failed)""))"
+https://www.mercyships.org.au,403 Client Error: Forbidden for url: https://www.mercyships.org.au/
+https://www.culliganlasvegas.com,403 Client Error: Forbidden for url: https://www.culliganlasvegas.com/
+https://www.toyota-givors.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.mazdaofbedford.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.kiacoldlake.com,403 Client Error: Forbidden for url: https://www.kiacoldlake.com/
+https://www.kiaofgrandblanc.com,405 Client Error: Not allowed for url: https://www.kiaofgrandblanc.com/
+https://www.culligancentralindiana.com,403 Client Error: Forbidden for url: https://www.culligancentralindiana.com/
+https://www.aireserv.ca,403 Client Error: Forbidden for url: https://www.aireserv.ca/
+https://www.isover.co.kr,403 Client Error: Forbidden for url: https://www.isover.co.kr/
+https://www.kiaofgrandblanc.com,405 Client Error: Not allowed for url: https://www.kiaofgrandblanc.com/
+https://www.biolchim.com.br,"HTTPSConnectionPool(host='www.biolchim.com.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.culliganhoriconwatertown.com,403 Client Error: Forbidden for url: https://www.culliganhoriconwatertown.com/
+https://www.kiaofwestburlington.com,403 Client Error: Forbidden for url: https://www.kiaofwestburlington.com/
+https://www.tbwazim.co.zw,"HTTPSConnectionPool(host='www.tbwazim.co.zw', port=443): Read timed out. (read timeout=15)"
+https://www.aon.hu,"HTTPSConnectionPool(host='www.aon.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.duracell.it,"HTTPSConnectionPool(host='www.duracell.it', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.vedanta-zincinternational.com,"HTTPSConnectionPool(host='www.vedanta-zincinternational.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.intersport.hr,"HTTPSConnectionPool(host='www.intersport.hr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782B110>, 'Connection to www.intersport.hr timed out. (connect timeout=15)'))"
+https://www.aspenpharma.es,"HTTPSConnectionPool(host='www.aspenpharma.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.aspenpharma.es'. (_ssl.c:1077)"")))"
+https://www.idealindustries.cn,"HTTPSConnectionPool(host='www.idealindustries.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AA67829090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+https://www.culliganwaternebraska.com,403 Client Error: Forbidden for url: https://www.culliganwaternebraska.com/
+https://www.linexranchocordova.com,403 Client Error: Forbidden for url: https://www.linexranchocordova.com/
+https://www.renault-chihuahua.com,403 Client Error: Forbidden for url: https://www.renault-chihuahua.com/
+https://www.kiaoflumberton.com,405 Client Error: Not allowed for url: https://www.kiaoflumberton.com/
+https://www.toyota-saint-victoret.com,"HTTPSConnectionPool(host='www.toyota-saint-victoret.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyota-saint-victoret.com'. (_ssl.c:1077)"")))"
+https://www.pepsico.rs,403 Client Error: Forbidden for url: https://www.pepsico.rs/
+https://www.wwf.org.nz,403 Client Error: Forbidden for url: https://www.wwf.org.nz/
+https://www.travelocarbooking.com,"HTTPSConnectionPool(host='www.travelocarbooking.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829310>: Failed to resolve 'www.travelocarbooking.com' ([Errno 11002] getaddrinfo failed)""))"
+https://www.mazdaofmilford.com,405 Client Error: Not allowed for url: https://www.mazdaofmilford.com/
+https://www.toyotapasongtamo.com,"HTTPSConnectionPool(host='www.toyotapasongtamo.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.gulfoil.co.uk,404 Client Error: Not Found for url: https://www.gulfoil.co.uk/
+https://www.mazdaofalexandria.com,405 Client Error: Not allowed for url: https://www.mazdaofalexandria.com/
+https://www.nikonmetro1stg.wpengine.com,"HTTPSConnectionPool(host='www.nikonmetro1stg.wpengine.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nikonmetro1stg.wpengine.com'. (_ssl.c:1077)"")))"
+https://www.toyotabeerens.be,"HTTPSConnectionPool(host='www.toyotabeerens.be', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829A90>: Failed to resolve 'www.toyotabeerens.be' ([Errno 11001] getaddrinfo failed)""))"
+https://www.isover.ie,403 Client Error: Forbidden for url: https://www.isover.ie/
+https://www.renaultpatria.com.mx,403 Client Error: Forbidden for url: https://www.renaultpatria.com.mx/
+https://www.nestle.ua,403 Client Error: Forbidden for url: https://www.nestle.ua/
+https://www.culligannation.com,403 Client Error: Forbidden for url: https://www.culligannation.com/
+https://www.pepsico.es,403 Client Error: Forbidden for url: https://www.pepsico.es/
+https://www.mazdaofconshohocken.com,405 Client Error: Not allowed for url: https://www.mazdaofconshohocken.com/
+https://www.kiaofbillings.com,405 Client Error: Not allowed for url: https://www.kiaofbillings.com/
+https://www.mazdaofcolumbia.com,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.top1toysbleijenberg.nl,"HTTPSConnectionPool(host='www.top1toysbleijenberg.nl', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.toyota-saint-victoret.com,"HTTPSConnectionPool(host='www.toyota-saint-victoret.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyota-saint-victoret.com'. (_ssl.c:1077)"")))"
+https://www.culliganwooster.com,403 Client Error: Forbidden for url: https://www.culliganwooster.com/
+https://www.amnestyghana.org,"HTTPSConnectionPool(host='www.amnestyghana.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A0D0>: Failed to resolve 'www.amnestyghana.org' ([Errno 11001] getaddrinfo failed)""))"
+https://www.nissanofthebronx.com,403 Client Error: Forbidden for url: https://www.nissanofthebronx.com/
+https://www.duracell.co.za,"HTTPSConnectionPool(host='www.duracell.co.za', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.savethechildren.nl,403 Client Error: Forbidden for url: https://www.savethechildren.nl/
+https://www.santanderuniversidades.com.mx,"HTTPSConnectionPool(host='www.santanderuniversidades.com.mx', port=443): Read timed out. (read timeout=15)"
+https://www.medef-dromeardeche.fr,"HTTPSConnectionPool(host='www.medef-dromeardeche.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.pepsico.co.it,403 Client Error: Forbidden for url: https://www.pepsico.co.it/
+https://www.intersport.hr,"HTTPSConnectionPool(host='www.intersport.hr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782AFD0>, 'Connection to www.intersport.hr timed out. (connect timeout=15)'))"
+https://www.culliganadvantage.com,403 Client Error: Forbidden for url: https://www.culliganadvantage.com/
+https://www.budget.rs,"HTTPSConnectionPool(host='www.budget.rs', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.mitsubishielectric.in,"('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+https://www.kiaofcoatesville.com,405 Client Error: Not allowed for url: https://www.kiaofcoatesville.com/
+https://www.amnestyghana.org,"HTTPSConnectionPool(host='www.amnestyghana.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A350>: Failed to resolve 'www.amnestyghana.org' ([Errno 11001] getaddrinfo failed)""))"
+https://www.lamannamovingny.com,"HTTPSConnectionPool(host='www.lamannamovingny.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.chicco.com.tr,"HTTPSConnectionPool(host='www.chicco.com.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1077)')))"
+https://www.hansa-flex.us,"HTTPSConnectionPool(host='www.hansa-flex.us', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hansa-flex.us'. (_ssl.c:1077)"")))"
+https://www.renaultecatepec.com.mx,403 Client Error: Forbidden for url: https://www.renaultazcapotzalco.com.mx
+https://www.synlab.lt,"HTTPSConnectionPool(host='www.synlab.lt', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782A0D0>, 'Connection to www.synlab.lt timed out. (connect timeout=15)'))"
+https://www.nestle.dk,403 Client Error: Forbidden for url: https://www.nestle.dk/
+https://www.ymcatrivalley.org,403 Client Error: Forbidden for url: https://www.ymcatrivalley.org/
+https://www.wurth.es,405 Client Error: Not allowed for url: https://www.wurth.es/
+https://www.medef-seine-estuaire.fr,"HTTPSConnectionPool(host='www.medef-seine-estuaire.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.mazdaoflodi.com,405 Client Error: Not allowed for url: https://www.mazdaoflodi.com/
+https://www.kiaofmuncie.com,405 Client Error: Not allowed for url: https://www.kiaofmuncie.com/
+https://www.pingusenglish.vn,"HTTPSConnectionPool(host='www.pingusenglish.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pingusenglish.vn'. (_ssl.c:1077)"")))"
+https://www.subarutijuana.mx,"HTTPSConnectionPool(host='www.subarutijuana.mx', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.nestle.com.pe,403 Client Error: Forbidden for url: https://www.nestle.com.pe/
+https://www.casperscreensnorcal.com,"HTTPSConnectionPool(host='www.casperscreensnorcal.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.casperscreensnorcal.com'. (_ssl.c:1077)"")))"
+https://www.jysk.mk,"HTTPSConnectionPool(host='www.jysk.mk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.jysk.mk'. (_ssl.c:1077)"")))"
+https://www.starkey.com.co,"HTTPSConnectionPool(host='www.starkey.com.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultdelsol.com.mx,403 Client Error: Forbidden for url: https://www.renaultdelsol.com.mx/
+https://www.allianz.sg,403 Client Error: Forbidden for url: https://www.allianz.sg/
+https://www.pingusenglish.vn,"HTTPSConnectionPool(host='www.pingusenglish.vn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pingusenglish.vn'. (_ssl.c:1077)"")))"
+https://www.nestle-esar.com,403 Client Error: Forbidden for url: https://www.nestle-esar.com/
+https://www.kia-autoprodix.ru,"HTTPSConnectionPool(host='www.kia-autoprodix.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.kia-autoprodix.ru'. (_ssl.c:1077)"")))"
+https://www.nestle.com.bo,403 Client Error: Forbidden for url: https://www.nestle.com.bo/
+https://www.pamline.fr,403 Client Error: Forbidden for url: https://www.pamline.fr/
+https://www.solatube.com.cn,"HTTPSConnectionPool(host='www.solatube.com.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AA6782BD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+https://www.dci.co.th,"HTTPSConnectionPool(host='www.dci.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67829090>, 'Connection to www.dci.co.th timed out. (connect timeout=15)'))"
+https://www.pepsico.ua,403 Client Error: Forbidden for url: https://www.pepsico.ua/
+https://www.mazdaofnewrochelle.com,403 Client Error: Forbidden for url: https://www.mazdaofnewrochelle.com/
+https://www.kiajc.com,403 Client Error: Forbidden for url: https://www.kiajc.com/
+https://www.gotchateausa.com,"HTTPSConnectionPool(host='www.gotchateausa.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67829D10>, 'Connection to www.gotchateausa.com timed out. (connect timeout=15)'))"
+https://www.solatube.no,"HTTPSConnectionPool(host='www.solatube.no', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.solatube.no'. (_ssl.c:1077)"")))"
+https://www.tapflo.by,"HTTPSConnectionPool(host='www.tapflo.by', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782B750>: Failed to resolve 'www.tapflo.by' ([Errno 11001] getaddrinfo failed)""))"
+https://www.medef-htcis.com,"HTTPSConnectionPool(host='www.medef-htcis.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultinterlomas.com,403 Client Error: Forbidden for url: https://www.renaultinterlomas.com/
+https://www.kiaprimavera.com,405 Client Error: Not allowed for url: https://www.kiaprimavera.com/
+https://www.pepsico.pt,403 Client Error: Forbidden for url: https://www.pepsico.pt/
+https://www.indianmotorcycle.com.ar,"HTTPSConnectionPool(host='www.indianmotorcycle.com.ar', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001AA67829BD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))"
+https://www.thegoodlobby.fr,403 Client Error: Forbidden for url: https://www.thegoodlobby.fr/
+https://www.julis-bremen.de,"HTTPSConnectionPool(host='www.julis-bremen.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782BB10>: Failed to resolve 'www.julis-bremen.de' ([Errno 11001] getaddrinfo failed)""))"
+https://www.engie.com.au,403 Client Error: Forbidden for url: https://www.engie.com.au/
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.culliganstlouis.com,403 Client Error: Forbidden for url: https://www.culliganstlouis.com/
+https://www.nestle.co.kr,403 Client Error: Forbidden for url: https://www.nestle.co.kr/
+https://www.pepsico.com.br,403 Client Error: Forbidden for url: https://www.pepsico.com.br/
+https://www.adra.org.pt,"HTTPSConnectionPool(host='www.adra.org.pt', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.adra.org.pt'. (_ssl.c:1077)"")))"
+https://www.altriusconsulting.com,404 Client Error: Not Found for url: https://www.altriusconsulting.com/
+https://www.renaultdelsol.com.mx,403 Client Error: Forbidden for url: https://www.renaultdelsol.com.mx/
+https://www.thebodyshop.com.tr,503 Server Error: Service Unavailable for url: https://www.thebodyshop.com.tr/
+https://www.acuraoframsey.com,403 Client Error: Forbidden for url: https://www.acuraoframsey.com/
+https://www.soneparusa.com,403 Client Error: Forbidden for url: https://www.soneparusa.com/
+https://www.indianmotorcyclesturgis.com,403 Client Error: Forbidden for url: https://www.indianmotorcyclesturgis.com/
+https://www.bestwesternbraddock.com,403 Client Error: Forbidden for url: https://www.bestwesternbraddock.com/
+https://www.mcdonalds-mcdelivery.es,403 Client Error: Forbidden for url: https://mcdonalds.es/mcdelivery
+https://www.culliganwisconsin.com,403 Client Error: Forbidden for url: https://www.culliganwisconsin.com/
+https://www.mazda.com.kh,"HTTPSConnectionPool(host='www.mazda.com.kh', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782B890>: Failed to resolve 'www.mazda.com.kh' ([Errno 11002] getaddrinfo failed)""))"
+https://www.renaultpatria.com.mx,403 Client Error: Forbidden for url: https://www.renaultpatria.com.mx/
+https://www.culliganlemars.com,403 Client Error: Forbidden for url: https://www.culliganlemars.com/
+https://www.nestle.com.uy,403 Client Error: Forbidden for url: https://www.nestle.com.uy/
+https://www.toyota-magny.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.nestle.com.ar,403 Client Error: Forbidden for url: https://www.nestle.com.ar/
+https://www.bauer-egypt.com,404 Client Error: Not Found for url: https://www.bauer-egypt.com/
+https://www.mazdaofsouthcharlotte.com,405 Client Error: Not allowed for url: https://www.mazdaofsouthcharlotte.com/
+https://www.mazdaoflodi.com,405 Client Error: Not allowed for url: https://www.mazdaoflodi.com/
+https://www.isover.at,403 Client Error: Forbidden for url: https://www.isover.at/
+https://www.duracell.fr,"HTTPSConnectionPool(host='www.duracell.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.mazdaofescondido.com,403 Client Error: Forbidden for url: https://www.mazdaofescondido.com/
+https://www.medeforne.fr,"HTTPSConnectionPool(host='www.medeforne.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.disneychannel.co.za,"HTTPSConnectionPool(host='www.disneychannel.co.za', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.disneychannel.co.za'. (_ssl.c:1077)"")))"
+https://www.isover.be,403 Client Error: Forbidden for url: https://www.isover.be/
+https://www.siebtechnik-tema.com.au,"HTTPSConnectionPool(host='www.siebtechnik-tema.com.au', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1077)')))"
+https://www.orange.cd,"HTTPSConnectionPool(host='www.orange.cd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA6782A350>: Failed to resolve 'www.orange.cd' ([Errno 11002] getaddrinfo failed)""))"
+https://www.mazda112.com,405 Client Error: Not allowed for url: https://www.mazda112.com/
+https://www.vamdodoma.ru,"HTTPSConnectionPool(host='www.vamdodoma.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1077)')))"
+https://www.mazdaofmilford.com,405 Client Error: Not allowed for url: https://www.mazdaofmilford.com/
+https://www.lindeoilandgas.com,"HTTPSConnectionPool(host='www.lindeoilandgas.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lindeoilandgas.com'. (_ssl.c:1077)"")))"
+https://www.medef-seineetmarne.fr,"HTTPSConnectionPool(host='www.medef-seineetmarne.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultmonterrey.com,403 Client Error: Forbidden for url: https://www.renaultmonterrey.com/
+https://www.mazdaofwooster.com,405 Client Error: Not allowed for url: https://www.mazdaofwooster.com/
+https://www.mazdaofportcharlotte.com,403 Client Error: Forbidden for url: https://www.mazdaofportcharlotte.com/
+https://www.mazdanorkar.com,"HTTPSConnectionPool(host='www.mazdanorkar.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.sonepar.co,"HTTPSConnectionPool(host='www.sonepar.co', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67828B90>: Failed to resolve 'www.sonepar.co' ([Errno 11001] getaddrinfo failed)""))"
+https://www.kynixsemiconductor.com,"HTTPSConnectionPool(host='www.kynixsemiconductor.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA6782B750>, 'Connection to www.kynixsemiconductor.com timed out. (connect timeout=15)'))"
+https://www.dhirajsonsonline.com,403 Client Error: Forbidden for url: https://www.dhirajsonsonline.com/
+https://www.culligangrandrapids.com,403 Client Error: Forbidden for url: https://www.culligangrandrapids.com/
+https://www.rsm.bh,"HTTPSConnectionPool(host='www.rsm.bh', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001AA67829D10>, 'Connection to www.rsm.bh timed out. (connect timeout=15)'))"
+https://www.nestle.lt,403 Client Error: Forbidden for url: https://www.nestle.lt/
+https://www.esseskincare.hk,"HTTPSConnectionPool(host='www.esseskincare.hk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.esseskincare.hk'. (_ssl.c:1077)"")))"
+https://www.digi-intl.co.jp,"HTTPSConnectionPool(host='www.digi-intl.co.jp', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1077)')))"
+https://www.norauto-empleo.es,403 Client Error: Forbidden for url: https://www.norauto-empleo.es/
+https://www.nestle.com.bd,403 Client Error: Forbidden for url: https://www.nestle.com.bd/
+https://www.papajohns.com.tr,403 Client Error: Forbidden for url: https://www.papajohns.com.tr/
+https://www.mazda-autohaus-huck-buehl.de,"HTTPSConnectionPool(host='www.mazda-autohaus-huck-buehl.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x000001AA67829090>: Failed to resolve 'www.mazda-autohaus-huck-buehl.de' ([Errno 11001] getaddrinfo failed)""))"
+https://www.wurth.hu,"HTTPSConnectionPool(host='www.wurth.hu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.wurth.hu'. (_ssl.c:1077)"")))"
+https://www.techmatrix-asia.com,"HTTPSConnectionPool(host='www.techmatrix-asia.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.techmatrix-asia.com'. (_ssl.c:1077)"")))"
+https://www.mazdaofchicagoland.com,403 Client Error: Forbidden for url: https://www.mazdaofchicagoland.com/
+https://www.tapflo.se,"HTTPSConnectionPool(host='tapflo.com', port=443): Max retries exceeded with url: /se/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.decathlon.cz,403 Client Error: Forbidden for url: https://www.decathlon.cz/
+https://www.lueck-gruppe.de,"HTTPSConnectionPool(host='www.lueck-gruppe.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1077)')))"
+https://www.toyota-lyonsud.fr,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+https://www.allianz-reiseschutz.de,403 Client Error: Forbidden for url: https://www.allianz-reiseschutz.de/
+https://www.mazdaofconshohocken.com,405 Client Error: Not allowed for url: https://www.mazdaofconshohocken.com/
+https://www.tributek.com,"HTTPSConnectionPool(host='www.tributek.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.toyota.com.np,"HTTPSConnectionPool(host='www.toyota.com.np', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.nestle.com.py,403 Client Error: Forbidden for url: https://www.nestle.com.py/
+https://www.savethechildren.nl,403 Client Error: Forbidden for url: https://www.savethechildren.nl/
+https://www.carlsjr.co.nz,403 Client Error: Forbidden for url: https://www.carlsjr.co.nz/
+https://www.toyotadefence.com,"HTTPSConnectionPool(host='www.toyotadefence.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyotadefence.com'. (_ssl.c:1077)"")))"
+https://www.rexel.ca,"HTTPSConnectionPool(host='www.rexel.ca', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.medef-aura.fr,"HTTPSConnectionPool(host='www.medef-aura.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))"
+https://www.renaultpuertovallarta.com.mx,403 Client Error: Forbidden for url: https://www.renaultpuertovallarta.com.mx/
+https://www.toyotasud.ro,"HTTPSConnectionPool(host='www.toyotasud.ro', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1077)')))"
+https://www.culliganallegan.com,403 Client Error: Forbidden for url: https://www.culliganallegan.com/
+https://www.toyota-marseille.com,"HTTPSConnectionPool(host='www.toyota-marseille.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.toyota-marseille.com'. (_ssl.c:1077)"")))"
+https://www.avon.co.mu,423 Client Error: unknown for url: https://www.avon.co.mu/
