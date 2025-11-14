@@ -1,5 +1,5 @@
 import csv
-import find_logo_scripts.find_logo as find_logo
+import find_logo as find_logo
 import pyarrow.parquet as pq
 from PIL import Image
 import imagehash
