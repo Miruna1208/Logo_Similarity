@@ -36,3 +36,24 @@ The `logo_images.py` functionality is responsible for downloading, saving, and p
 
 - **Error Handling**  
   Safely handles failures in downloading or processing and logs problematic links.
+
+## main.py – Logo hashing, similarity grouping
+The `main.py` script is responsible for processing all extracted logo images, computing perceptual hashes, calculating extraction success rates, and grouping websites based on visual similarity.
+
+Its main responsibilities include:
+
+- **Hash Loading & Validation**  
+  The script loads all perceptual hashes generated during the extraction stage and validates each entry in `good_links.csv`.  
+
+- **Similarity Comparison & Grouping**  
+  Every logo hash is compared with all others using the perceptual hash distance (Hamming distance).  
+  If two hashes differ by less than the chosen threshold (`THRESHOLD`), they are considered visually similar and included in the same group.
+
+- **Group Export**  
+  The output is written to `grouped_links.csv`
+
+## logo_image_group.py 
+The `logo_image_group.py` script takes the grouped results and organizes the corresponding images into folders so that visually similar logos can be inspected easily.
+
+
+
