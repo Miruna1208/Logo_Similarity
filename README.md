@@ -1,5 +1,6 @@
 # Logo_Similarity
 Match and group websites by the similarity of their logos.
+[Project presentation](https://docs.google.com/presentation/d/1SH6BkHShoCD6f0i2pKnsA5Fwj04GacLj/edit?usp=sharing&ouid=112555544588146967388&rtpof=true&sd=true)
 
 ## Description
 This project is designed to extract logos from a list of websites and analyze them in order to identify visual similarities between brands. By downloading the logos, converting them to a standardized format, and generating perceptual hashes, it allows for efficient comparison of logo designs, detecting resemblances, and grouping brands with similar visual identities. This tool is especially useful for market research, brand monitoring, or building datasets for machine learning applications involving logo recognition and similarity detection.
